@@ -1,0 +1,9 @@
+Deutsche
+Mitarbeitername:
+Mitarbeitername ID:
+Arbeitsstunden:
+Gesamtumsatz:
+Der Umsatz Bonus:
+Berechnen
+Nächster
+Drucken

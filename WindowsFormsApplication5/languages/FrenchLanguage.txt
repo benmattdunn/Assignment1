@@ -1,0 +1,9 @@
+Français
+Nom de l'employé:
+Employé ID:
+Heures travaillées:
+Ventes totales:
+Bonus de vente:
+Calculer
+Prochain
+Impression
