@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\SharpMailOrderProject.MailOrder.resources
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\SharpMailOrderProject.MailOrder.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Assignment1.csproj.GenerateResource.Cache

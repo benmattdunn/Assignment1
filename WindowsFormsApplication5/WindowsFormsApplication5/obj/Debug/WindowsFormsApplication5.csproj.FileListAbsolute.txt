@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Assignment1.resources
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\User\Desktop\Assignment1-master\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
